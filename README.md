@@ -1,6 +1,6 @@
 # Citi-Bank-Finance-Data-Analysis
 Interactive Visulisaiton provided pre & post Housing Crisis, inspired by THE BIG SHORT movie :) 
-Language: Python
+Language: Python<br>
 Enviornment: Jupyter Notebook IDE
 Python Libraries: Pandas, Numpy, Matplotlib, Seaborn, data_reader, plotly & Cufflinks
 Dataset: YAHOO finance for Bank Stock Data
