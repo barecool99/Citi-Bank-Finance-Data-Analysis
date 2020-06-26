@@ -1,5 +1,10 @@
 # Citi-Bank-Finance-Data-Analysis
+
 Interactive Visulisaiton provided pre & post Housing Crisis, inspired by THE BIG SHORT movie :) 
+How to run:
+1) Download Anaconda Jupyter Notebook for Python.
+2) Install libraries(Pandas, Numpy, Matplotlib, data_reader, plotly, Cufflinks & Seaborn) with one liner commands.
+3) Run the desired cells in Notebook using 'run' command.
 
 Project Specs:
 *  Language: Python
