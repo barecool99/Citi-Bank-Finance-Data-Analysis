@@ -1,5 +1,7 @@
 # Citi-Bank-Finance-Data-Analysis
 
+Disclaimer: I did this to learn about data science, i am not affilated or was told to do the project from any of the banks I extracted infromation from. 
+
 Interactive Visulisaiton provided pre & post Housing Crisis, inspired by THE BIG SHORT movie :) 
 
 
